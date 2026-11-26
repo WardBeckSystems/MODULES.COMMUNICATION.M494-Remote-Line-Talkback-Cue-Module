@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/COMMUNICATION/M494/MANUALS/19xx - M494 - Remote Line Tb Module (2).pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/cb1629798907b16b-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 11.2, 331.2, 429.4],
+ "outlines": {
+  "line": {"rings": 270, "straight": {"n": 3082, "mm": 6578.5}, "curved": {"n": 676, "mm": 1117.3}},
+  "text": {"rings": 221, "straight": {"n": 1765, "mm": 2080.4}, "curved": {"n": 550, "mm": 903.6}}
+ },
+ "circles": [
+  {"c": [65.4, 235.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [134.6, 46.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [126.4, 53.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 78,
+  "lines": [
+   {"mm": [28.7, 410.6, 47.9, 416.2], "text": "WAR"},
+   {"mm": [70.4, 410.6, 81.8, 416.2], "text": "CK"},
+   {"mm": [132.6, 410.6, 142.9, 416.2], "text": "TD"},
+   {"mm": [111.6, 353.4, 231.4, 358.7], "text": "104.494 REMOTE LI NE TB/CUE MODULE"},
+   {"mm": [94.3, 327.1, 136.9, 332.4], "text": "OESCR IP ION"},
+   {"mm": [233.2, 325.6, 294.9, 330.9], "text": "MFG PART NUMBER"},
+   {"mm": [45.3, 314.4, 66.1, 319.6], "text": "SWI to"},
+   {"mm": [94.1, 306.8, 113.8, 311.8], "text": "Swi tCh"},
+   {"mm": [119.4, 306.8, 147.9, 312.1], "text": "Assemb ly"},
+   {"mm": [183.7, 305.9, 206.2, 311.0], "text": "SChado"},
+   {"mm": [233.2, 305.3, 269.4, 312.5], "text": "was 1l-049"},
+   {"mm": [93.9, 293.2, 110.3, 298.5], "text": "Switc"},
+   {"mm": [232.5, 291.2, 269.0, 298.4], "text": "was 11-«12"},
+   {"mm": [109.5, 259.1, 234.3, 264.4], "text": "CONTAOL KNOBS CAPS AND BUTT ONS"},
+   {"mm": [93.5, 233.2, 136.2, 238.4], "text": "OESCR IPTION"},
+   {"mm": [231.9, 231.7, 294.3, 236.9], "text": "MFG PART NUMBER"},
+   {"mm": [93.5, 212.9, 134.1, 218.2], "text": "BUllon Wh it"},
+   {"mm": [183.1, 212.0, 209.9, 217.3], "text": "$chadow"},
+   {"mm": [44.0, 192.8, 58.9, 198.6], "text": "SW10"},
+   {"mm": [93.1, 193.0, 128.2, 198.3], "text": "Bu tton {Re"},
+   {"mm": [275.1, 64.3, 295.8, 73.2], "text": "ps"},
+   {"mm": [263.6, 53.1, 285.2, 64.4], "text": "BS"},
+   {"mm": [42.5, 50.1, 172.7, 58.2], "text": "was ec onwnen Ike use of roeDI.ceme"},
+   {"mm": [196.3, 50.7, 248.5, 56.0], "text": "iS made by lhe"},
+   {"mm": [42.5, 44.0, 133.4, 49.3], "text": "speci fi.d ma nuf aC lu rers fo"},
+   {"mm": [145.3, 44.0, 233.4, 49.3], "text": "onl ln ued opt Imu eQui pme"},
+   {"mm": [253.5, 44.0, 284.8, 49.3], "text": "rform ance"},
+   {"mm": [241.4, 30.9, 259.7, 38.1], "text": "tp"},
+   {"mm": [234.5, 24.0, 255.2, 30.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 11–429 mm up",
+  "- **Outlines:** line 270 rings, 3,082 straight (6,578 mm) / 676 curved (1,117 mm); text 221 rings, 1,765 straight (2,080 mm) / 550 curved (904 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (65.4, 235.6), r 1.8 @ (134.6, 46.8), r 1.7 @ (126.4, 53.4)",
+  "- **Words (OCR):** 78 in 29 lines: WAR · CK · TD · 104.494 REMOTE LI NE TB/CUE MODULE · OESCR IP ION · MFG PART NUMBER · SWI to · Swi tCh · Assemb ly · SChado · was 1l-049 · Switc"
+ ]
+}

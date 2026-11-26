@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/COMMUNICATION/M494/MANUALS/19xx - M494 - Remote Line Tb Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/e650f24ef3d98097-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.9, 329.0, 425.3],
+ "outlines": {
+  "line": {"rings": 38, "straight": {"n": 916, "mm": 2701.7}, "curved": {"n": 94, "mm": 151.0}},
+  "text": {"rings": 137, "straight": {"n": 1680, "mm": 2378.6}, "curved": {"n": 428, "mm": 742.1}},
+  "tb": {"rings": 4, "straight": {"n": 108, "mm": 303.2}, "curved": {"n": 7, "mm": 13.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [116.2, 407.2, 282.8, 418.2], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [45.8, 397.7, 282.4, 412.8], "text": "WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARID M1h2x4"},
+   {"mm": [115.7, 396.0, 169.7, 401.2], "text": "TELEX: 065-25399"},
+   {"mm": [204.9, 395.5, 282.4, 402.5], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [145.5, 242.7, 191.3, 254.4], "text": "M494"},
+   {"mm": [106.0, 228.6, 229.9, 238.7], "text": "REMOTE LINE TB / CUE MODULE"},
+   {"mm": [75.6, 2.6, 253.7, 10.5], "text": "DESIGN AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [39.2, 389.1, 262.2, 427.0],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARID M1h2x4", "TELEX: 065-25399", "TELEPHONE: 416/438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 4–425 mm up",
+  "- **Outlines:** line 38 rings, 916 straight (2,702 mm) / 94 curved (151 mm); text 137 rings, 1,680 straight (2,379 mm) / 428 curved (742 mm); tb 4 rings, 108 straight (303 mm) / 7 curved (13.2 mm)",
+  "- **Words (OCR):** 9 in 7 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARID M1h2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-6550 · M494 · REMOTE LINE TB / CUE MODULE · DESIGN AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUPMENT",
+  "- **Title block:** (39, 389)–(262, 427) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARID M1h2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-6550"
+ ]
+}

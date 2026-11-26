@@ -22,7 +22,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Words (OCR):** 9 in 7 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARID M1h2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-6550 · M494 · REMOTE LINE TB / CUE MODULE · DESIGN AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUPMENT
 - **Title block:** (39, 389)–(262, 427) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGRESS AVENUE; SCARBOAOUGH; ONTARID M1h2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-6550
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p1 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p1%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p1 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p1%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p1 (
 - **Outlines:** line 64 rings, 1,062 straight (3,325 mm) / 158 curved (240 mm); text 1,850 rings, 15,244 straight (17,411 mm) / 4,191 curved (6,836 mm)
 - **Words (OCR):** 277 in 174 lines: WARD-BECK SYSTEms · LTD; · CIRCUIT · DESCRIPTION · REMOTE LINE · TBLCUE · MODULE · M494 · conjunction with an · The M494 module is · designed to be · used in
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p2 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p2%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p2 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p2%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p2 (
 - **Words (OCR):** 114 in 69 lines: WAAD-BECK · SYSTEmS LTD; · OtJ emateye Xjaa-OAAW · CIRCUII_DESCRIPIION · M494 REMOTE LINE · IBLCUE MODULE · On-AIR · LOCKOUI · P#np  ?{ · nn % · Once the · CHANNEL on button
 - **Title block:** (17, 401)–(128, 426) mm: WAAD-BECK · SYSTEmS LTD;
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p3 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p3%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p3 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p3%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p3 (
 - **Closed boxes:** 7
 - **Words (OCR):** 84 in 76 lines: WARD-BECK SYSTEmS LTD_ · PARIS · LISI · M494 REMOTE LINE · TBcUE MQDULE · PART NUMBER · PART · DESCRIPIION · MFG · MFG · C1 · Capacitor
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p4 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p4%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p4 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p4%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -62,7 +62,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p4 (
 - **Words (OCR):** 103 in 93 lines: WAAD-BECK SYSTEMs LTD_ · PARIS LISI · M494 · REMOTE LINE · IBLCUE_MODULE · PARI · DESCRIPTION · 27^ MFG · MFG PART NUMBER · R6 · Resistor Yw · 58
 - **Title block:** (15, 400)–(125, 426) mm: WAAD-BECK SYSTEMs LTD_
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p5 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p5%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p5 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p5%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p5 (
 - **Words (OCR):** 68 in 46 lines: WAAD-BECK · Bybtems LTD; · PARTS List · REMOTE LINE · TB/CUE MODULE · M49l · PART · DESCRIPTION · MFG · MFG PART NUMBER · Swi t0 · Sw9
 - **Title block:** (18, 42)–(251, 425) mm: WAAD-BECK · Bybtems LTD; · PARTS List · REMOTE LINE · TB/CUE MODULE · M49l · PART · DESCRIPTION · MFG · Swi t0 · Sw9 · Switch · Assembly · WBS 11-049 · Schadow · WBS 11-002 · Swio · Switch · CONTROL ·
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p6 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p6%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p6 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p6%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p6 (
 - **Words (OCR):** 79 in 54 lines: WBS · M494 · DES IGNATION STRIP · indicat ing remote · SELEcTOR shitch asgembly · select ion any one · of eight · t0 519: · ine sources. · Alows · remote · Tines.
 - **Title block:** (140, 0)–(331, 321) mm: WBS · M494 · SELEcTOR shitch asgembly · select ion any one · of eight · t0 519: · Alows · remote · Tines. · Yelou LED DS2 : Indicates modu le · operati · the TALKBACK mode CUE · and · are di sab led: 
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p7 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p7%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p7 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p7%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p7 (
 - **Closed boxes:** 2
 - **Words (OCR):** 14 in 13 lines: LINE · INPUTS · CUE · OFF · K1 · K2 · K3 · ON AIR · CONTROL · ASSIGN · INPUTS · LINE
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p8 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p8%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p8 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p8%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p8 (
 - **Title block:** (111, 6)–(330, 108) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN_ MRW · M494 · ENG.MRW 11/77 · REMOTE LINE TB/ CUE MODULE · CKD: · FUNCTIONAL · APP · SCALE · ISSUE · 494 - 01 - 001
 - **Wiring (first pass):** 26 connected wire groups from 61 runs; labelled ends: 80 mm → LINE; 80 mm → CUE, PROGRAM
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p9 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p9%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p9 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p9%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p9 (
 - **Dots (junctions):** 2
 - **Words (OCR):** 106 in 95 lines: R2 · 300 · SWZo · 00 · OO · Sw3o · 300 · Swa · LINE · Sws_ · INPUTS · 500
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p10 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p10%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p10 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p10%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p10 
 - **Title block:** (190, 2)–(331, 73) mm: 2178 Ciwas 100/25,822_ · RBLWAS 22K · ISSUE DATE · REVISION · APP · WBS WARD-BECK SySTEMS · DRN: MRw · M494 · 22 CHASSIS ENG.MRW 10/77 · REMOTE LINE TB/ CUE MODULE · CKD:' Ro} . · SCHEMATIC · APP · SC
 - **Wiring (first pass):** 38 connected wire groups from 162 runs; labelled ends: 278 mm → R29, 33k, R32, R37; 221 mm → 2n3569, R36, Iok, C2; 91 mm → NOTES; 87 mm → SWIo; 41 mm → DS 2, FLV4i0, YEl, R34
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p11 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p11%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p11 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p11%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p11 
 - **Words (OCR):** 65 in 54 lines: Sw To Sw9 · WBs 11-049 · WBS · CANADA · 7-115 · ki · K2 · K3 · Mrb 3A24 · Mrb 3424 · V23oiz · #cr3_ 4003
 - **Title block:** (62, 82)–(242, 398) mm: Sw To Sw9 · WBs 11-049 · WBS · CANADA · 7-115 · ki · K2 · Mrb 3A24 · Mrb 3424 · #cr3_ 4003 · R2z- 224 · Tnw · 32 · R24- · Cr6 448 · R37 · R23 4k7 · R22-22k · R25 22K · FLV410 · Flv //7 · Yel Ro · 03 Z
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p12 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p12%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p12 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p12%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p12 
 - **Words (OCR):** 64 in 55 lines: RI · 122 · R2_?ee · 'BS · Rg · 329 · RA · NADA · -115 · RS-3ee · g02 · Ro-
 - **Title block:** (191, 3)–(331, 75) mm: 12/ /8 (iwas 100/25,R23 · R3I WAS 22k · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SySTEMS · DRN: MRw · M494 · ENG.MRW 10l77 · CKD h&4 · REMOTE LINE TB/ CUE MODULE · COMPONENT LAYOUT · APP · SCALE ·
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p13 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p13%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p13 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p13%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p13 
 - **Dots (junctions):** 1
 - **Words (OCR):** 51 in 35 lines: Al 1 · NC Bl 2 · NC · Nc · NC · NG · LINE INPUTS · Nc · Nc · LINE · INPUTS · Nc
 
-Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p14 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p14%20(traced).json) (the CAD file: `19xx - M494 - Remote Line Tb Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - Remote Line Tb Module p14 (traced).json](../MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p14%20%28traced%29.json) (the CAD file: `19xx - M494 - Remote Line Tb Module p14 (traced).dxf`).
 
 ## Full text
 

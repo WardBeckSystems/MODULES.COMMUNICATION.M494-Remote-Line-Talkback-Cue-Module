@@ -21,7 +21,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Words (OCR):** 72 in 49 lines: WBS · M494 · DeS ignation StRiP indicating remote · relote · SELECTOR shitch assembIY Swi · i{lestion of ay' oe of · Tine sources · Red LED DSI Indicates ON-AIR status · Yellox LED DS2 : · Indicates module · remote · LISTEN and TALK -
 - **Title block:** (140, 0)–(331, 321) mm: WBS · M494 · relote · SELECTOR shitch assembIY Swi · i{lestion of ay' oe of · Yellox LED DS2 : · Indicates module · the TALKBACK mode. · are disab led: · cu · and · facilities · ISSU DATE · REvISION ·
 
-Every curve, box, word and wire group: [19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN (traced).json](../MECHANICAL/19xx%20-%20M494%20-%20494-04-003%20-%20CONNECTED%20ACROSS%20BRCHEEM%20REMOTE%20INE%20AND%20THE%20GREEN%20(traced).json) (the CAD file: `19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN (traced).json](../MECHANICAL/19xx%20-%20M494%20-%20494-04-003%20-%20CONNECTED%20ACROSS%20BRCHEEM%20REMOTE%20INE%20AND%20THE%20GREEN%20%28traced%29.json) (the CAD file: `19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN (traced).dxf`).
 
 ## Full text
 

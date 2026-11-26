@@ -22,7 +22,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Words (OCR):** 14 in 12 lines: LINE · INPUTS · CUE · OFF · K1 · K2 · K3 · ON AIR · CONTROL · ASSIGN · INPUTS · LINE TALK
 - **Wiring (first pass):** 108 connected wire groups from 222 runs; labelled ends: 146 mm → LINE, INPUTS; 66 mm → CUE; 42 mm → CUE; 27 mm → CUE; 18 mm → CONTROL, INPUTS, LINE
 
-Every curve, box, word and wire group: [19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK (traced).json](../SCHEMATICS/19xx%20-%20M494%20-%20494-01-001%20-%20AIR%20CONTROL%20ASSIGN%20INPUTS%20LINE%20TALK%20(traced).json) (the CAD file: `19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK (traced).json](../SCHEMATICS/19xx%20-%20M494%20-%20494-01-001%20-%20AIR%20CONTROL%20ASSIGN%20INPUTS%20LINE%20TALK%20%28traced%29.json) (the CAD file: `19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Title block:** (190, 2)–(331, 74) mm: 2 /78 · Ciwas 100/25R23 + R3I WAS 22K · (ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: MRw · M494 · Z2 CHAssIS ENG.MRW 10/77 · REMOTE LINE TB/CUE MODULE · CKD: Ra · SCHEMATIC · APP · SCA
 - **Wiring (first pass):** 38 connected wire groups from 167 runs; labelled ends: 241 mm → Mrg 3424, R29, 33k, R32; 220 mm → 2n3569, Rzb, C2, 22/25; 91 mm → Swico; 91 mm → NOTES; 57 mm → K3, R37, 2k2, Y23012
 
-Every curve, box, word and wire group: [19xx - M494 - 494-02-001 - AND ALL CAPACITORS (traced).json](../SCHEMATICS/19xx%20-%20M494%20-%20494-02-001%20-%20AND%20ALL%20CAPACITORS%20(traced).json) (the CAD file: `19xx - M494 - 494-02-001 - AND ALL CAPACITORS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - 494-02-001 - AND ALL CAPACITORS (traced).json](../SCHEMATICS/19xx%20-%20M494%20-%20494-02-001%20-%20AND%20ALL%20CAPACITORS%20%28traced%29.json) (the CAD file: `19xx - M494 - 494-02-001 - AND ALL CAPACITORS (traced).dxf`).
 
 ## Full text
 

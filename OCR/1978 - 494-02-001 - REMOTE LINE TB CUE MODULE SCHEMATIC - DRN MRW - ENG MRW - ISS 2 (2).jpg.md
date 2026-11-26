@@ -36,7 +36,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Title block:** (332, 13)–(432, 61) mm: ISSU VAE · REVISION · APP: · WBS WARD-BECK ByBteMB · DRM: MRW · M494 · 22 CHASSIS ENG Mrw 1017t · REMOTE LINE TB/CUE MODULE · CKD · SCHEMATIC · SCALE · 494-02-001 · ISSUE
 - **Wiring (first pass):** 88 connected wire groups from 610 runs; labelled ends: 294 mm → 1-049, 3w2o, Swjo, SwSo; 286 mm → Rig, Rkg, 22k, 4k7; 280 mm → 3w2o, Swjo, 944, SwSo; 277 mm → Iok, R37, 33k, Rzo; 232 mm → 944, SwSo, Swco, Swlo
 
-Every curve, box, word and wire group: [1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2) (traced).json](../SCHEMATICS/1978%20-%20494-02-001%20-%20REMOTE%20LINE%20TB%20CUE%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20(2)%20(traced).json) (the CAD file: `1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2) (traced).json](../SCHEMATICS/1978%20-%20494-02-001%20-%20REMOTE%20LINE%20TB%20CUE%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

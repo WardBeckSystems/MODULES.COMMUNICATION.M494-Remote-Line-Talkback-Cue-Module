@@ -20,7 +20,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Closed boxes:** 76
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE (traced).json](../PINOUTS/19xx%20-%20M494%20-%20494-04-002%20-%20RSLKY%20CONNECTOR%20REAR%20VIEW%20ALE%20(traced).json) (the CAD file: `19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE (traced).json](../PINOUTS/19xx%20-%20M494%20-%20494-04-002%20-%20RSLKY%20CONNECTOR%20REAR%20VIEW%20ALE%20%28traced%29.json) (the CAD file: `19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE (traced).dxf`).
 
 ## Full text
 

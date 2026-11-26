@@ -23,7 +23,7 @@ Wiki page: [M494](../../../../PAGES/M494.md)
 - **Title block:** (111, 6)–(330, 109) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. MRW · M494 · ENG.MRW 11/77 · REMOTE LINE TB/ CUE MODULE · CKD: Kell · FUNCTIONAL · APP @uje · SCALE · ISSUE · 494 -01 001
 - **Wiring (first pass):** 27 connected wire groups from 74 runs; labelled ends: 80 mm → LINE LISTEN; 80 mm → CUE, PROGRAM
 
-Every curve, box, word and wire group: [19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M494%20-%20494-01-001%20-%20ELL-%20REMOTE%20LINE%20TB-CUE%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M494%20-%20494-01-001%20-%20ELL-%20REMOTE%20LINE%20TB-CUE%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

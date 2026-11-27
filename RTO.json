@@ -3,14 +3,843 @@
  "connector": "RTO-144",
  "type": "M494 - Remote Line Tb Module",
  "series": null,
- "contacts": "",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [],
+ "built_from": {
+  "pictures": [
+   "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M494/M494.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 8",
+   "kind": "in",
+   "port": "LINE INPUT 8",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 7",
+   "kind": "in",
+   "port": "LINE INPUT 7",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 6",
+   "kind": "in",
+   "port": "LINE INPUT 6",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 5",
+   "kind": "in",
+   "port": "LINE INPUT 5",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 4",
+   "kind": "in",
+   "port": "LINE INPUT 4",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 3",
+   "kind": "in",
+   "port": "LINE INPUT 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 2",
+   "kind": "in",
+   "port": "LINE INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 1",
+   "kind": "in",
+   "port": "LINE INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE IN",
+   "kind": "in",
+   "port": "CUE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "LISTEN OUT",
+   "kind": "out",
+   "port": "LISTEN OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "TB IN",
+   "kind": "in",
+   "port": "TB IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
+   "signal": "ASSIGN CTL",
+   "kind": "control_in",
+   "port": "ASSIGN CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK CTL",
+   "kind": "control_in",
+   "port": "TALKBACK CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 8",
+   "kind": "in",
+   "port": "LINE INPUT 8",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 7",
+   "kind": "in",
+   "port": "LINE INPUT 7",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 6",
+   "kind": "in",
+   "port": "LINE INPUT 6",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 5",
+   "kind": "in",
+   "port": "LINE INPUT 5",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 4",
+   "kind": "in",
+   "port": "LINE INPUT 4",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 3",
+   "kind": "in",
+   "port": "LINE INPUT 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 2",
+   "kind": "in",
+   "port": "LINE INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE INPUT 1",
+   "kind": "in",
+   "port": "LINE INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE IN",
+   "kind": "in",
+   "port": "CUE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "LISTEN OUT",
+   "kind": "out",
+   "port": "LISTEN OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "TB IN",
+   "kind": "in",
+   "port": "TB IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "ON-AIR CTL",
+   "kind": "control_in",
+   "port": "ON-AIR CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M494/PINOUTS/19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "LINE INPUT 8",
+   "dir": "in",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-1"
+   }
+  },
+  {
+   "name": "LINE INPUT 7",
+   "dir": "in",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "LINE INPUT 6",
+   "dir": "in",
+   "pins": {
+    "a": "P1-E",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "LINE INPUT 5",
+   "dir": "in",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "LINE INPUT 4",
+   "dir": "in",
+   "pins": {
+    "a": "P1-K",
+    "b": "P1-9"
+   }
+  },
+  {
+   "name": "LINE INPUT 3",
+   "dir": "in",
+   "pins": {
+    "a": "P1-M",
+    "b": "P1-11"
+   }
+  },
+  {
+   "name": "LINE INPUT 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "LINE INPUT 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "CUE IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-T",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "LISTEN OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-U",
+    "b": "P1-17"
+   }
+  },
+  {
+   "name": "TB IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-V",
+    "b": "P1-18"
+   }
+  },
+  {
+   "name": "ASSIGN CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-19"
+   }
+  },
+  {
+   "name": "ON-AIR CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-X"
+   }
+  },
+  {
+   "name": "TALKBACK CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-21"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M494/M494.rto144.json"
- ]
+ "conflicts": [],
+ "to_check": []
 }

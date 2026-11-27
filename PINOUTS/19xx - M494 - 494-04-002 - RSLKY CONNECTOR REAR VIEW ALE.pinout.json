@@ -1,0 +1,586 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.jpg",
+ "module": "M494",
+ "applies_to": [
+  "M494"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "494-04-002",
+  "title": "M494 REMOTE LINE TB/CUE MODULE CONNECTOR REAR VIEW",
+  "date": "1977-12",
+  "issue": "1",
+  "drawn": null
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "A",
+   "also": null,
+   "as_drawn": "#8",
+   "signal": "LINE INPUT 8",
+   "kind": "in",
+   "port": "LINE INPUT 8",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "#8",
+   "signal": "LINE INPUT 8",
+   "kind": "in",
+   "port": "LINE INPUT 8",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "also": null,
+   "as_drawn": "#7",
+   "signal": "LINE INPUT 7",
+   "kind": "in",
+   "port": "LINE INPUT 7",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "#7",
+   "signal": "LINE INPUT 7",
+   "kind": "in",
+   "port": "LINE INPUT 7",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "also": null,
+   "as_drawn": "#6",
+   "signal": "LINE INPUT 6",
+   "kind": "in",
+   "port": "LINE INPUT 6",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "#6",
+   "signal": "LINE INPUT 6",
+   "kind": "in",
+   "port": "LINE INPUT 6",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "also": null,
+   "as_drawn": "#5",
+   "signal": "LINE INPUT 5",
+   "kind": "in",
+   "port": "LINE INPUT 5",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "#5",
+   "signal": "LINE INPUT 5",
+   "kind": "in",
+   "port": "LINE INPUT 5",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "also": null,
+   "as_drawn": "#4",
+   "signal": "LINE INPUT 4",
+   "kind": "in",
+   "port": "LINE INPUT 4",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "#4",
+   "signal": "LINE INPUT 4",
+   "kind": "in",
+   "port": "LINE INPUT 4",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "also": null,
+   "as_drawn": "#3",
+   "signal": "LINE INPUT 3",
+   "kind": "in",
+   "port": "LINE INPUT 3",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "#3",
+   "signal": "LINE INPUT 3",
+   "kind": "in",
+   "port": "LINE INPUT 3",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "also": null,
+   "as_drawn": "#2",
+   "signal": "LINE INPUT 2",
+   "kind": "in",
+   "port": "LINE INPUT 2",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "#2",
+   "signal": "LINE INPUT 2",
+   "kind": "in",
+   "port": "LINE INPUT 2",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "also": null,
+   "as_drawn": "#1",
+   "signal": "LINE INPUT 1",
+   "kind": "in",
+   "port": "LINE INPUT 1",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "#1",
+   "signal": "LINE INPUT 1",
+   "kind": "in",
+   "port": "LINE INPUT 1",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "also": null,
+   "as_drawn": "CUE IN",
+   "signal": "CUE IN",
+   "kind": "in",
+   "port": "CUE IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "also": null,
+   "as_drawn": "CUE IN",
+   "signal": "CUE IN",
+   "kind": "in",
+   "port": "CUE IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "also": null,
+   "as_drawn": "LISTEN OUT",
+   "signal": "LISTEN OUT",
+   "kind": "out",
+   "port": "LISTEN OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "also": null,
+   "as_drawn": "LISTEN OUT",
+   "signal": "LISTEN OUT",
+   "kind": "out",
+   "port": "LISTEN OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "also": null,
+   "as_drawn": "TB IN",
+   "signal": "TB IN",
+   "kind": "in",
+   "port": "TB IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "also": null,
+   "as_drawn": "TB IN",
+   "signal": "TB IN",
+   "kind": "in",
+   "port": "TB IN",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "also": null,
+   "as_drawn": "ASSIGN CTL",
+   "signal": "ASSIGN CTL",
+   "kind": "control_in",
+   "port": "ASSIGN CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "also": null,
+   "as_drawn": "ON-AIR CTL",
+   "signal": "ON-AIR CTL",
+   "kind": "control_in",
+   "port": "ON-AIR CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "also": null,
+   "as_drawn": "GND",
+   "signal": "GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "also": null,
+   "as_drawn": "+25V",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "also": null,
+   "as_drawn": "TALKBACK CTL",
+   "signal": "TALKBACK CTL",
+   "kind": "control_in",
+   "port": "TALKBACK CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "also": null,
+   "as_drawn": "CTL COMM",
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "also": null,
+   "as_drawn": "CHASSIS",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "LINE INPUT 8",
+   "dir": "in",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-1"
+   }
+  },
+  {
+   "name": "LINE INPUT 7",
+   "dir": "in",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-3"
+   }
+  },
+  {
+   "name": "LINE INPUT 6",
+   "dir": "in",
+   "pins": {
+    "a": "P1-E",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "LINE INPUT 5",
+   "dir": "in",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "LINE INPUT 4",
+   "dir": "in",
+   "pins": {
+    "a": "P1-K",
+    "b": "P1-9"
+   }
+  },
+  {
+   "name": "LINE INPUT 3",
+   "dir": "in",
+   "pins": {
+    "a": "P1-M",
+    "b": "P1-11"
+   }
+  },
+  {
+   "name": "LINE INPUT 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-P",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "LINE INPUT 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-15"
+   }
+  },
+  {
+   "name": "CUE IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-T",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "LISTEN OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-U",
+    "b": "P1-17"
+   }
+  },
+  {
+   "name": "TB IN",
+   "dir": "in",
+   "pins": {
+    "a": "P1-V",
+    "b": "P1-18"
+   }
+  },
+  {
+   "name": "ASSIGN CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-19"
+   }
+  },
+  {
+   "name": "ON-AIR CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-X"
+   }
+  },
+  {
+   "name": "TALKBACK CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-21"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "unread": [
+  "DRN. box is empty; CKD. is a signature"
+ ],
+ "confidence": "high",
+ "notes": "Single 22-way edge connector, rear view; the drawing names none, so it is called P1. Letters and numbers are opposite contacts, each labelled separately. LINE INPUTS #8 ... #1 on rows A/1, C/3, E/5, H/7, K/9, M/11, P/13, S/15 (same label on letter and number contact: read as balanced pairs, no +/- drawn, ports use 'a' letter / 'b' number); even rows between them are NC. CUE IN (T/16), LISTEN OUT (U/17) and TB IN (V/18) likewise pairs without polarity. Control lines: ASSIGN CTL (19), ON-AIR CTL (X), TALKBACK CTL (21); their direction is not drawn, recorded as control_in. CTL COMM (Z) recorded as ground (control common), GND (20), CHASSIS (22), +25V on Y. No -25 V is drawn. Legend NC = NOT CONNECTED. Title block: Ward-Beck Systems Ltd., size A, ISS. 1, DATE DEC 1977. No insert."
+}

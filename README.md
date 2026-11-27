@@ -81,10 +81,54 @@ Not on Google Drive yet: `M494 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-RTO-144 edge connector. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
+| 1 | LINE INPUT 8 | in | LINE INPUT 8 | high |
+| 2 | N/C | nc |  | high |
+| 3 | LINE INPUT 7 | in | LINE INPUT 7 | high |
+| 4 | N/C | nc |  | high |
+| 5 | LINE INPUT 6 | in | LINE INPUT 6 | high |
+| 6 | N/C | nc |  | high |
+| 7 | LINE INPUT 5 | in | LINE INPUT 5 | high |
+| 8 | N/C | nc |  | high |
+| 9 | LINE INPUT 4 | in | LINE INPUT 4 | high |
+| 10 | N/C | nc |  | high |
+| 11 | LINE INPUT 3 | in | LINE INPUT 3 | high |
+| 12 | N/C | nc |  | high |
+| 13 | LINE INPUT 2 | in | LINE INPUT 2 | high |
+| 14 | N/C | nc |  | high |
+| 15 | LINE INPUT 1 | in | LINE INPUT 1 | high |
+| 16 | CUE IN | in | CUE IN | high |
+| 17 | LISTEN OUT | out | LISTEN OUT | high |
+| 18 | TB IN | in | TB IN | high |
+| 19 | ASSIGN CTL | control_in | ASSIGN CTL | high |
+| 20 | GROUND | ground |  | high |
+| 21 | TALKBACK CTL | control_in | TALKBACK CTL | high |
+| 22 | CHASSIS | ground |  | high |
+| A | LINE INPUT 8 | in | LINE INPUT 8 | high |
+| B | N/C | nc |  | high |
+| C | LINE INPUT 7 | in | LINE INPUT 7 | high |
+| D | N/C | nc |  | high |
+| E | LINE INPUT 6 | in | LINE INPUT 6 | high |
+| F | N/C | nc |  | high |
+| H | LINE INPUT 5 | in | LINE INPUT 5 | high |
+| J | N/C | nc |  | high |
+| K | LINE INPUT 4 | in | LINE INPUT 4 | high |
+| L | N/C | nc |  | high |
+| M | LINE INPUT 3 | in | LINE INPUT 3 | high |
+| N | N/C | nc |  | high |
+| P | LINE INPUT 2 | in | LINE INPUT 2 | high |
+| R | N/C | nc |  | high |
+| S | LINE INPUT 1 | in | LINE INPUT 1 | high |
+| T | CUE IN | in | CUE IN | high |
+| U | LISTEN OUT | out | LISTEN OUT | high |
+| V | TB IN | in | TB IN | high |
+| W | N/C | nc |  | high |
+| X | ON-AIR CTL | control_in | ON-AIR CTL | high |
+| Y | +25 V | power |  | high |
+| Z | CONTROL COMMON | ground |  | high |
 
 ## Manuals and documents
 

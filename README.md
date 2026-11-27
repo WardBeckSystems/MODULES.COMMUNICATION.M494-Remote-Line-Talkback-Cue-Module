@@ -1,16 +1,16 @@
-# M494 · Communication
+# M494 Remote Line Talkback Cue Module · Communication
 
 Ward-Beck Systems M494, 1978|11. Wiki page: [M494 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M494.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 39 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 7 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 94 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 95 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -57,15 +57,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMGh6ekFDamNpN2c/view?resourcekey=0-fiTLige95Il0oTE-C_mZeA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMGh6ekFDamNpN2c&resourcekey=0-fiTLige95Il0oTE-C_mZeA" width="240" alt="19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN.jpg"></a><br><sub>19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN · <a href="MECHANICAL/19xx%20-%20M494%20-%20494-04-003%20-%20CONNECTED%20ACROSS%20BRCHEEM%20REMOTE%20INE%20AND%20THE%20GREEN%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-## 3-D model
-
-[`MECHANICAL/M494.stl`](MECHANICAL/M494.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M494)
-
-- **Size:** 56.35 × 215.9 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 16 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M494 - front panel.svg`)
-- the drawn panel is 0.21 wide to high, the size 0.26: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M494.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -73,7 +64,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLTRVN3VOZi1ZMGc/view?resourcekey=0-hhYif236_AGq6rWmD3Vy2Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLTRVN3VOZi1ZMGc&resourcekey=0-hhYif236_AGq6rWmD3Vy2Q" width="240" alt="19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK.jpg"></a><br><sub>19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK · <a href="SCHEMATICS/19xx%20-%20M494%20-%20494-01-001%20-%20AIR%20CONTROL%20ASSIGN%20INPUTS%20LINE%20TALK%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVXpHSHJMVWNHVjQ/view?resourcekey=0-6QpP3sqW-4AMr21b8wAfjg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVXpHSHJMVWNHVjQ&resourcekey=0-6QpP3sqW-4AMr21b8wAfjg" width="240" alt="19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL.jpg"></a><br><sub>19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL · <a href="SCHEMATICS/19xx%20-%20M494%20-%20494-01-001%20-%20ELL-%20REMOTE%20LINE%20TB-CUE%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQzI2bUpJMThoak0/view?resourcekey=0--8Cqn37i96DQNW2oxh7_xg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQzI2bUpJMThoak0&resourcekey=0--8Cqn37i96DQNW2oxh7_xg" width="240" alt="19xx - M494 - 494-02-001 - AND ALL CAPACITORS.jpg"></a><br><sub>19xx - M494 - 494-02-001 - AND ALL CAPACITORS · <a href="SCHEMATICS/19xx%20-%20M494%20-%20494-02-001%20-%20AND%20ALL%20CAPACITORS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZDdYUVEwOU11dEE/view?resourcekey=0-Sxn6GRLdgYDhWpZNv8Lvtw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZDdYUVEwOU11dEE&resourcekey=0-Sxn6GRLdgYDhWpZNv8Lvtw" width="240" alt="19xx - M494 - 494-02-001 - IOK AIR RZO.jpg"></a><br><sub>19xx - M494 - 494-02-001 - IOK AIR RZO · <a href="SCHEMATICS/19xx%20-%20M494%20-%20494-02-001%20-%20IOK%20AIR%20RZO%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKM2VPOVVUa294RFk/view?resourcekey=0-ra6p4-teKIGNpJnFZt3YxA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKM2VPOVVUa294RFk&resourcekey=0-ra6p4-teKIGNpJnFZt3YxA" width="240" alt="19xx - M494 - 494-06-001 - REMOTE LINE.jpg"></a><br><sub>19xx - M494 - 494-06-001 - REMOTE LINE · <a href="SCHEMATICS/19xx%20-%20M494%20-%20494-06-001%20-%20REMOTE%20LINE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT2NRZWRjLVdOcE0/view?resourcekey=0-HGL-gak2dT_S8soVaDULdA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT2NRZWRjLVdOcE0&resourcekey=0-HGL-gak2dT_S8soVaDULdA" width="240" alt="19xx - M494 - 494-06-001 - RZI IOO.jpg"></a><br><sub>19xx - M494 - 494-06-001 - RZI IOO · <a href="SCHEMATICS/19xx%20-%20M494%20-%20494-06-001%20-%20RZI%20IOO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/10PBucS_YumpUAe4MKcrfMnhyC717PCOB/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=10PBucS_YumpUAe4MKcrfMnhyC717PCOB" width="240" alt="19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE.jpg"></a><br><sub>19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/10PBucS_YumpUAe4MKcrfMnhyC717PCOB/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=10PBucS_YumpUAe4MKcrfMnhyC717PCOB" width="240" alt="19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE.jpg"></a><br><sub>19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE · <a href="SCHEMATICS/19xx%20-%20M494%20-%20DOC%20-%20494-02-001%20-%20REMOTE%20LINE%20TB-CUE%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2).jpg`, `1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2.jpg`, `19xx - 494-06-001.jpg`
@@ -160,10 +151,16 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL.kicad_sch](KICAD/19xx%20-%20M494%20-%20494-01-001%20-%20ELL-%20REMOTE%20LINE%20TB-CUE%20MODULE%20FUNCTIONAL.kicad_sch)
 - [19xx - M494 - 494-02-001 - AND ALL CAPACITORS.kicad_sch](KICAD/19xx%20-%20M494%20-%20494-02-001%20-%20AND%20ALL%20CAPACITORS.kicad_sch)
 - [19xx - M494 - 494-02-001 - IOK AIR RZO.kicad_sch](KICAD/19xx%20-%20M494%20-%20494-02-001%20-%20IOK%20AIR%20RZO.kicad_sch)
+- [19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE.kicad_sch](KICAD/19xx%20-%20M494%20-%20DOC%20-%20494-02-001%20-%20REMOTE%20LINE%20TB-CUE%20MODULE.kicad_sch)
 - [19xx - M494 - Remote Line Tb Module (2) p9.kicad_sch](KICAD/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20(2)%20p9.kicad_sch)
 - [19xx - M494 - Remote Line Tb Module p11.kicad_sch](KICAD/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p11.kicad_sch)
 - [19xx - M494 - Remote Line Tb Module p9.kicad_sch](KICAD/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p9.kicad_sch)
 - [M494.kicad_sym](KICAD/M494.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

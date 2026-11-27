@@ -13,6 +13,42 @@ Ward-Beck Systems M494, 1978|11. Wiki page: [M494 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Circuit description
+
+From [19xx - M494 - Remote Line Tb Module (2).pdf](MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20(2).pdf) pages 2-4 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+&quot;'494 REMOTE LINEn / CUE MODULE
+
+The H494 Module is designed to be uud fn conjunction with u M4S1 hlkback Module ud an H453A Cue AMpllffe r t o provide facilities fort alk back, l f s ten, and prograM cue along a h oway remote line.
+
+The eo d ul e permits connection with up to eight remote l fnes. Any one H ne /lIa y be selected with the Ifd oft he fnterloc ke d push ·button assembly SWI t o SWg. Resistors Rl through R16 pro v fde a balanced, center tapped 600 ohm terMination for uch line.
+
+The &quot; 49 4 lilly be operated in anyone of four distinct modes as described below.
+
+These l e c ted remote line is routed t hrou9 h the closed conhcts o f relays 1&lt;2 and 1&lt; ] t o the LI STEN/ CUE switch SWI0. When In its r e l used position. 5'111 0 connects the !f net o pins I1 /U of the Module connector. This point is externally wired to the Input of In H453A Cue AMplifier, thus per mltt i n9 listen i n9 to there mote line feed.
+
+A p rog rUl feed originating from a console output o r alternatively frOM an off·afr d fs tr l but ion ulplfffe r, i s connected top ins 16/ T of the module connect o r. W1th SWI0 depressed, thfs sfgnll i s fed back Into these l e cte d line and serves IS a cue feed. The g r et n LEO DS3 w111 be illuM f nl ted with SWI0 depressed. TAlKBACK The cut put of an 1'1451 hlkb ack Amplifier enters the 1Il0d\l leon pins IS/V. Similarly, one oft he four control outputs associated with the 1'1 451 outputs elector switches 1$ wired to pfn 21 oft he H494. When it is desired to co tlJa\lnlc ate with the
+
+r eec tel ocatf on, thea ppropriat e O\ltpu t butt nn of the H451 1s
+
+pressed, resulting In I(J oft he &quot;494 being energized and connecting the hlkbl ck feed t o these le c ted lfne. SiMul ta
+
+neo us l y, they ell ow LED DS2 is f ll umf nate d. When operating tn
+
+the TALKBACK..od e, CUE as well as LISTEN r ee t t t t tes are disabled.
+
+**ON-AI R LOCKOUT**
+
+Once the CHANNEl ON button o f the Me90 Input &quot; od uI ere late d tot he selected r e e ere l t ne Is.ctuued, the control feed fro. the 1'490, which is wired top fn X oft he &quot;4 94, will energIze K1. nd de -ene r gf ze 1(.2. As ares ult, all TALKBAC!:, CUE, and LISTEN h c f11t f es are disabled and there e e t e 11ne Is t er. lnated into 600 ohlll. There d LEO OSl f n di c a test his p.rt lc uhr co nd1t ion.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

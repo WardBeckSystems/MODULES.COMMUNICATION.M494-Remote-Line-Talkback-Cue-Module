@@ -4,13 +4,11 @@ Ward-Beck Systems M494, 1978|11. Wiki page: [M494 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 95 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 8 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 94 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -57,6 +55,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMGh6ekFDamNpN2c/view?resourcekey=0-fiTLige95Il0oTE-C_mZeA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMGh6ekFDamNpN2c&resourcekey=0-fiTLige95Il0oTE-C_mZeA" width="240" alt="19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN.jpg"></a><br><sub>19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN · <a href="MECHANICAL/19xx%20-%20M494%20-%20494-04-003%20-%20CONNECTED%20ACROSS%20BRCHEEM%20REMOTE%20INE%20AND%20THE%20GREEN%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M494.stl`](MECHANICAL/M494.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M494)
+
+- **Size:** 56.35 × 215.9 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 16 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M494 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.26: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M494.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -67,8 +74,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/10PBucS_YumpUAe4MKcrfMnhyC717PCOB/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=10PBucS_YumpUAe4MKcrfMnhyC717PCOB" width="240" alt="19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE.jpg"></a><br><sub>19xx - M494 - DOC - 494-02-001 - REMOTE LINE TB-CUE MODULE · <a href="SCHEMATICS/19xx%20-%20M494%20-%20DOC%20-%20494-02-001%20-%20REMOTE%20LINE%20TB-CUE%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2).jpg`, `1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2.jpg`, `19xx - 494-06-001.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -76,8 +81,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYWc1aWNsYUV5SlU/view?resourcekey=0-QZy1_66TbJvIJ996FjjQTw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYWc1aWNsYUV5SlU&resourcekey=0-QZy1_66TbJvIJ996FjjQTw" width="240" alt="19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.jpg"></a><br><sub>19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE · <a href="PINOUTS/19xx%20-%20M494%20-%20494-04-002%20-%20RSLKY%20CONNECTOR%20REAR%20VIEW%20ALE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M494 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -156,7 +159,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M494 - Remote Line Tb Module p11.kicad_sch](KICAD/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p11.kicad_sch)
 - [19xx - M494 - Remote Line Tb Module p9.kicad_sch](KICAD/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module%20p9.kicad_sch)
 - [M494.kicad_sym](KICAD/M494.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

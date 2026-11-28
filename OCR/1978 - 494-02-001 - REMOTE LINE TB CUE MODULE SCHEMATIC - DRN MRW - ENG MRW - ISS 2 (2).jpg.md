@@ -1,5 +1,5 @@
 # 1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2).jpg
-Wiki page: [M494](../../../../PAGES/M494.md)
+Wiki page: [M494](../)
 
 
 - **Year:** 1978 (title block date)

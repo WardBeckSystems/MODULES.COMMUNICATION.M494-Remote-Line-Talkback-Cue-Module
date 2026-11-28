@@ -1,6 +1,6 @@
 # M494 Remote Line Talkback Cue Module · Communication
 
-Ward-Beck Systems M494, 1978|11. Wiki page: [M494 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M494.html)
+Ward-Beck Systems M494, 1978|11. Wiki page: [M494 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M494-Remote-Line-Talkback-Cue-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 19xx - M494 - 494-01-001 - AIR CONTROL ASSIGN INPUTS LINE TALK.jpg
-Wiki page: [M494](../../../../PAGES/M494.md)
+Wiki page: [M494](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,5 +1,5 @@
 # 19xx - M494 - 494-01-001 - ELL- REMOTE LINE TB-CUE MODULE FUNCTIONAL.jpg
-Wiki page: [M494](../../../../PAGES/M494.md)
+Wiki page: [M494](../)
 
 
 - **Year:** unknown (unknown)

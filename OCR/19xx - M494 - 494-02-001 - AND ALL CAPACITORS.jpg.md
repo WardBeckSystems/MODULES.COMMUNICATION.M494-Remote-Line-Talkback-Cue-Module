@@ -1,5 +1,5 @@
 # 19xx - M494 - 494-02-001 - AND ALL CAPACITORS.jpg
-Wiki page: [M494](../../../../PAGES/M494.md)
+Wiki page: [M494](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,5 +1,5 @@
 # 19xx - M494 - Remote Line Tb Module (2).pdf
-Wiki page: [M494](../../../../PAGES/M494.md)
+Wiki page: [M494](../)
 
 
 - **Year:** unknown (unknown)

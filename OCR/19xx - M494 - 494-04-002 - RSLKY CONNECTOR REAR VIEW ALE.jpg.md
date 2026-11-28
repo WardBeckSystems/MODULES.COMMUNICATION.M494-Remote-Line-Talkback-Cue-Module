@@ -1,5 +1,5 @@
 # 19xx - M494 - 494-04-002 - RSLKY CONNECTOR REAR VIEW ALE.jpg
-Wiki page: [M494](../../../../PAGES/M494.md)
+Wiki page: [M494](../)
 
 
 - **Year:** unknown (unknown)
